@@ -17,7 +17,7 @@ Broken down this project has the following requirements:
 -Documentation\
 -Repository of code base
 
-
+New text :) 
 ## Project Initiation
 
 I propose to create an app that allows the user to track Various player characters and the ships that they pilot in the popular video game Elite: Dangerous. Users will thus be able to input details for each player character they choose to track including their combat rank, create new ship models to track ship types, and then also add the individual ships that player characters regularly pilot, including an estimated armament rating and tags that briefly denote the appearance for quick reference. The User should be able to view a list of the individual ships owned by any one player character. \
